@@ -6,4 +6,4 @@ Este es un proyecto de bus de datos
 
 Moises
 Gerardo
-Alexx
+Alex
