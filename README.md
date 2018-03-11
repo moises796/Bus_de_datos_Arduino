@@ -4,6 +4,6 @@ Este es un proyecto de bus de datos
 
 #Colaboradores
 
-Moises
-Gerardo
+Moises Cruz Rivera Diaz, CIF:2016010202.
+Gerardo Ariel Erazo Landos, CIF: 2015010551.
 Alex.
