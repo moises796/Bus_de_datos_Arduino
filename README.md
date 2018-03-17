@@ -6,4 +6,4 @@ Este es un proyecto de bus de datos
 
 Moises Cruz Rivera Diaz, CIF:2016010202.
 Gerardo Ariel Erazo Landos, CIF: 2015010551.
-Juan Alexander Ruiz Rivas, CIF 03051020178.h
+Juan Alexander Ruiz Rivas, CIF 03051020178.
